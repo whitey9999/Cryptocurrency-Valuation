@@ -5,9 +5,8 @@ Visualize the data to explore insights into the different coins (EDA)
 Model the Currencies to estimate Price for each coin (Regression, Time Series, Neural Networks)
 
 TO DO:
-Clean up Bitcoin ETL process
-EDA for Bitcoin using Ledger statistics and Supplementary Data
-Tune and Refine modelling process 
-	(Use smaller timeline to exclude earlier bubble)
-	Review Time Series modelling for proper modelling process
+
+Tune and Refine modelling process
+	 - Use smaller timeline to exclude earlier bubble
+	 - Review Time Series modelling for proper modelling process
 Repeat for Ethereum, XRP, Cardano and Dogecoin
